@@ -2,12 +2,6 @@
 
 This project demonstrates the use of a Deep Neural Network (DNN) to predict housing prices based on features such as area, number of bedrooms and bathrooms, presence of amenities, and more. It includes data preprocessing, model training, evaluation, and visualization using Python and Keras.
 
----
-
-## 📁 Project Structure
-
----
-
 ## 🔧 Tools & Libraries
 
 - **Python 3.10+**
